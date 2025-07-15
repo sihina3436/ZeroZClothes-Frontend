@@ -1,4 +1,4 @@
 
 export const getBaseURL = () => {
-    return import.meta.env.VITE_BASE_URL; 
+    return "https://zerozclothes-backend-production-acae.up.railway.app"; 
 }
